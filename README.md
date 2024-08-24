@@ -23,7 +23,7 @@ To set up the project, follow these steps:
 
    ```
    git clone https://github.com/develaparX/vue-todos.git
-   cd todo-app
+   cd vue-todos
    ```
 
 2. Install dependencies:
