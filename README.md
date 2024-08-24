@@ -1,5 +1,5 @@
 # Todo App With Vue + Tailwind CSS
-
+![alt text](src/assets/image.png)
 ## Table of Contents
 
 1. Introduction
