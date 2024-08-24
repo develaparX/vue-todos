@@ -22,7 +22,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone [<repository-url>](https://github.com/develaparX/vue-todos.git)
+   git clone https://github.com/develaparX/vue-todos.git
    cd todo-app
    ```
 
